@@ -1,4 +1,4 @@
-## Neeko Mod Udon & Waypoints
+## Neeko Mod Stuff
 
 Have fun, adding more later
 
