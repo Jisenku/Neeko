@@ -1,6 +1,6 @@
 ## Neeko Mod Udon & Waypoints
 
-Have fun <3
+Have fun, adding more later
 
-Neeko Mod: https://discord.gg/neekocorner
+Neeko Mod: https://discord.gg/neekocorner <br>
 My Server: https://discord.gg/FYhGk3gNaB
