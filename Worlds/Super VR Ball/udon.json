@@ -1,0 +1,1 @@
+{"name":"End Race","wrldId":"wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6","udonObject":"Scripts/GameManager","udonEvent":"PlayerHasFinishedRaceMaster"},{"name":"Ready?","wrldId":"wrld_ff8b4a6e-4268-4783-bc16-3103067a4be6","udonObject":"Scripts/GameManager","udonEvent":"AnnounceReady"}
