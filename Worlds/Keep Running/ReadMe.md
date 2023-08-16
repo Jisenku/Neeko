@@ -10,3 +10,11 @@ Keep Running
 - Drain Water
 - Debug Panel (i don't remember if this works lol)
 - Request Rescue (Bypass the rescue limit by pressing this button once you request someone else)
+
+Waypoints to:
+
+- Computer room
+- Behind Laptop in Lobby
+- Survelience room
+- Water Drainage Button
+- Rescue Area
